@@ -94,7 +94,7 @@ p {
 @media (min-width: 1240px) {
   .wrapper {
   background-color: #fff;
-  width: 30%;
+  width: 26%;
   height: 33rem;
   display: flex;
   flex-direction: column;
@@ -115,7 +115,7 @@ h2 {
   color: hsl(218, 44%, 22%);
   text-align: center;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 10px;
   margin-left: 17px;
 }
 
@@ -124,7 +124,7 @@ p {
   text-align: center;
   font-weight: 400;
   font-size: 16.5px;
-  margin-left: 20px;
+  margin-left: 12px;
   letter-spacing: 0.5px;
   margin-top: -3px;
 }
